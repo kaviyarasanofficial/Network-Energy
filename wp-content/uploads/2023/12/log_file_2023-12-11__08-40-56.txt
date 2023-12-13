@@ -1,0 +1,45 @@
+
+---Downloaded files---
+The import files for: Webenvo were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = https://demo105.rectusmedia.in
+Data file = /home1/rectubmx/demo105.rectusmedia.in/wp-content/uploads/2023/12/demo-content-import-file_2023-12-11__08-40-56.xml
+Widget file = /home1/rectubmx/demo105.rectusmedia.in/wp-content/uploads/2023/12/demo-widgets-import-file_2023-12-11__08-40-56.json
+Customizer file = /home1/rectubmx/demo105.rectusmedia.in/wp-content/uploads/2023/12/demo-customizer-import-file_2023-12-11__08-40-56.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Webenvo Footer Widget 1 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
